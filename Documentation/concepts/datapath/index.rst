@@ -17,3 +17,4 @@ Datapath
    native_routing
    aws_eni
    gke
+   identity-relevant-labels
